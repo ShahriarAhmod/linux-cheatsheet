@@ -579,5 +579,3 @@ A Beginners guide for Linux users
 - Find a file
 
       find . -name filename
-#   l i n u x - c h e a t s h e e t  
- 
